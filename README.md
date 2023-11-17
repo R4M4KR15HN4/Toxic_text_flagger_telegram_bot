@@ -1,8 +1,8 @@
-# Text Toxicity Classification with Bi-LSTM
+# Text Text Flagger for telegram with Bi-LSTM
 
 ## Overview
 
-Text Toxicity Classification with Bi-LSTM is a project aimed at building a robust natural language processing (NLP) model to classify text content based on toxicity. The primary focus is on developing a solution that can effectively identify and categorize toxic language in textual data using a Bidirectional Long Short-Term Memory (Bi-LSTM) neural network.
+Text Text Flagge with Bi-LSTM is a project aimed at building a robust natural language processing (NLP) model to classify text content based on toxicity. The primary focus is on developing a solution that can effectively identify and categorize toxic language in textual data using a Bidirectional Long Short-Term Memory (Bi-LSTM) neural network.
 
 ## Project Description
 
